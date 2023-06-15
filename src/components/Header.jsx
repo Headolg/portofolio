@@ -23,7 +23,7 @@ function Header() {
                                             I'm a front-end developer.</p>
 
                                         <div className="mt-4">
-                                            <a href="/#projects"
+                                            <a 
                                                 className="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md">Check projects</a>
                                         </div>
                                     </div>
